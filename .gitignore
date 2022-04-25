@@ -146,3 +146,4 @@ cython_debug/
 
 /data
 plast_only_cols.py
+data_*
